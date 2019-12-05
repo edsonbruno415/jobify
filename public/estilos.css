@@ -87,6 +87,7 @@ button:hover {
 @media screen and (min-width: 0px) and (max-width: 500px) and (orientation: portrait){
     .main{
         width: 100%;
+        background: darkcyan;
     }
     .main p{
         font-size: 13pt;
