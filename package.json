@@ -2,7 +2,7 @@
   "name": "jobify",
   "version": "1.0.0",
   "engines": {
-    "node": "12.x"
+    "node": "10.x"
   },
   "description": "Jobify is a simple job board for sites.",
   "main": "index.js",
